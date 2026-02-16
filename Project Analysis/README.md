@@ -61,7 +61,7 @@ It includes detailed information on:
 #### 🔗 Load
 
 - Finally, I loaded both transformed queries into the workbook, setting the foundation for my subsequent analysis.
-    - 📊 data_jobs_all
+    - 📊 data_jobs_salary
 
         ![2_Project_Analysis_Screenshot3.png](/Project%20Analysis/images/step3.png)
 
@@ -93,7 +93,7 @@ It includes detailed information on:
 - 🧮 Then I added new measure to calculate the median salary for United States jobs.
     ```
     =CALCULATE(
-        MEDIAN(data_jobs_all[salary_year_avg]),
+        MEDIAN(data_jobs_salary[salary_year_avg]),
         data_jobs_all[job_country] = "United States")
     ```
 
@@ -102,7 +102,7 @@ It includes detailed information on:
 - To calculate the median year salary I used DAX.
 
     ```
-    Median Salary := MEDIAN(data_jobs_all[salary_year_avg])
+    Median Salary := MEDIAN(data_jobs_salary[salary_year_avg])
     ```
 
 ### 📊 Analysis
