@@ -3,7 +3,8 @@
 ## 📊 Dashboard Preview
 
 
-![Excel Salary Dashboard](/Excel-Project---Data-Analytics/Project%20Dashboard/images/Project%201%20Dashboard.png)
+![Excel Salary Dashboard](images/Project%201%20Dashboard.png)
+
 
 
 
@@ -60,7 +61,7 @@ This dashboard answers those questions through structured analysis and dynamic f
 
 ### 1️⃣ Salary by Job Title (Bar Chart)
 
-![Salary Chart](/Excel-Project---Data-Analytics/Project%20Dashboard/images/Project%201%20Median%20chart.png)
+![Salary Chart](images/Project%201%20Median%20chart.png)
 
 - Horizontal bar chart
 - Sorted by descending median salary
@@ -70,7 +71,7 @@ This dashboard answers those questions through structured analysis and dynamic f
 
 ### 2️⃣ Salary by Country (Map Chart)
 
-![Map Chart](/Excel-Project---Data-Analytics/Project%20Dashboard/images/Map%20Plot%20Project%201.png)
+![Map Chart](images/Map%20Plot%20Project%201.png)
 
 - Global salary visualization
 - Color-coded salary intensity
@@ -80,7 +81,7 @@ This dashboard answers those questions through structured analysis and dynamic f
 
 ### 3️⃣ Interactive Filters
 
-![Data Validation](images/Salary_Dashboard_Data_Validation.png)
+![Data Validation](images/Data%20Validaion%20Project%201.png)
 
 - Job Title filter
 - Country filter
@@ -103,7 +104,7 @@ Real-world 2023 data science job market dataset containing:
 ## 📁 Dashboard File
 
 My final dashboard is in
-[Download the Excel Dashboard](/Excel-Project---Data-Analytics/Project%20Dashboard/Project%201%20-%20Dashboard.xlsx)
+[Download the Excel Dashboard](Project%201%20-%20Dashboard.xlsx)
 
 
 
