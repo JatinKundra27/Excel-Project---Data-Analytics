@@ -94,7 +94,7 @@ It includes detailed information on:
     ```
     =CALCULATE(
         MEDIAN(data_jobs_salary[salary_year_avg]),
-        data_jobs_all[job_country] = "United States")
+        data_jobs_salary[job_country] = "United States")
     ```
 
 #### 🧮 DAX
